@@ -5,6 +5,6 @@
 <title>1.0</title>
 <pubDate>Sun, 08 Sep 2019 18:46:17 -0500</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://yourcompany.example.com/Mission%20Control%20Plus.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6373681" type="application/octet-stream"/>
+<enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.0/Mission.Control.Plus_1_0.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6373681" type="application/octet-stream"/>
 </item>
 </channel></rss>
