@@ -4,10 +4,10 @@
 <item>
 <title>v1.1 (some bug fixes)</title>
 <description><![CDATA[
-    <h2>Changes</h2>
+    <h2>Mission Control Plus v1.1</h2>
     <ul>
     	<li>Enabled international keyboards for shortcuts (previously we were bound to QWERTY-like keyboard layouts).</li> 
-    	<li>Reduced Deployment Target to 10.13</li>
+    	<li>Reduced minimum macOS version to 10.13</li>
     	<li>Added middle click to close window.</li>
     	<li>Enhanced reliability of closing windows and quitting apps.</li>
     </ul>
