@@ -2,9 +2,19 @@
 <channel>
 <title>Mission Control Plus</title>
 <item>
-<title>1.0</title>
-<pubDate>Sun, 08 Sep 2019 18:46:17 -0500</pubDate>
-<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.0/Mission.Control.Plus_1_0.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="6373681" type="application/octet-stream"/>
+<title>v1.1 (some bug fixes)</title>
+<description><![CDATA[
+    <h2>Changes</h2>
+    <ul>
+    	<li>Enabled international keyboards for shortcuts (previously we were bound to QWERTY-like keyboard layouts).</li> 
+    	<li>Reduced Deployment Target to 10.13</li>
+    	<li>Added middle click to close window.</li>
+    	<li>Enhanced reliability of closing windows and quitting apps.</li>
+    </ul>
+]]>
+</description>
+<pubDate>Tue, 24 Sep 2019 13:06:50 -0500</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.1/Mission.Control.Plus.zip" sparkle:version="1.1" sparkle:shortVersionString="1.1" length="6678411" type="application/octet-stream"/>
 </item>
 </channel></rss>
