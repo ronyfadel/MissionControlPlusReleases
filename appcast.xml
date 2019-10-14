@@ -2,19 +2,19 @@
 <channel>
 <title>Mission Control Plus</title>
 <item>
-<title>v1.1 (some bug fixes)</title>
+<title>v1.12</title>
 <description><![CDATA[
-    <h2>Mission Control Plus v1.1</h2>
+    <h2>Mission Control Plus v1.12</h2>
     <ul>
-    	<li>Enabled international keyboards for shortcuts (previously we were bound to QWERTY-like keyboard layouts).</li> 
-    	<li>Reduced minimum macOS version to 10.13</li>
-    	<li>Added middle click to close window.</li>
-    	<li>Enhanced reliability of closing windows and quitting apps.</li>
+        <li>Multi monitor support 🥳</li>
+        <li>Fix bug where showing the Desktop triggers Mission Control Plus</li>
+        <li>Show alert when multiple instances of Mission Control Plus are running</li>
+        <li>Fix a bug where we exit Mission Control if the app hangs for too long</li>
     </ul>
 ]]>
 </description>
-<pubDate>Tue, 24 Sep 2019 13:06:50 -0500</pubDate>
+<pubDate>Mon, 14 Oct 2019 12:05:22 -0500</pubDate>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.1/Mission_Control_Plus.zip" sparkle:version="1.1" sparkle:shortVersionString="1.1" length="6680589" type="application/octet-stream"/>
+<enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.12/Mission_Control_Plus.zip" sparkle:version="1.12" sparkle:shortVersionString="1.12" length="6703020" type="application/octet-stream"/>
 </item>
 </channel></rss>
