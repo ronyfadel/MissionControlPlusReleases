@@ -2,19 +2,17 @@
 <channel>
 <title>Mission Control Plus</title>
 <item>
-<title>v1.12</title>
+<title>v1.13</title>
 <description><![CDATA[
-    <h2>Mission Control Plus v1.12</h2>
+    <h2>Mission Control Plus v1.13</h2>
     <ul>
-        <li>Multi monitor support 🥳</li>
-        <li>Fix bug where showing the Desktop triggers Mission Control Plus</li>
-        <li>Show alert when multiple instances of Mission Control Plus are running</li>
-        <li>Fix a bug where we exit Mission Control if the app hangs for too long</li>
+        <li>Fix for international languages (Chinese, Russian) where MCP was previously broken</li>
+        <li>Perf fixes where MCP is gentler on the CPU</li>
     </ul>
 ]]>
 </description>
-<pubDate>Mon, 14 Oct 2019 12:05:22 -0500</pubDate>
+<pubDate>Sun, 17 Nov 2019 22:50:15 -0600</pubDate>
 <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.12/Mission_Control_Plus.zip" sparkle:version="1.12" sparkle:shortVersionString="1.12" length="6703020" type="application/octet-stream"/>
+<enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/1.13/Mission.Control.Plus.tgz" sparkle:version="1.13" sparkle:shortVersionString="1.13" length="6092770" type="application/octet-stream"/>
 </item>
 </channel></rss>
