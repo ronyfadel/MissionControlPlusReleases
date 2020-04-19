@@ -2,17 +2,16 @@
 <channel>
 <title>Mission Control Plus</title>
 <item>
-<title>v1.13</title>
+<title>1.14</title>
 <description><![CDATA[
-    <h2>Mission Control Plus v1.13</h2>
+    <h2>Mission Control Plus v1.14</h2>
     <ul>
-        <li>Fix for international languages (Chinese, Russian) where MCP was previously broken</li>
-        <li>Perf fixes where MCP is gentler on the CPU</li>
+        <li>Better multi-display support: now MCP works independently of the currently focused window</li>
     </ul>
 ]]>
 </description>
-<pubDate>Sun, 17 Nov 2019 22:50:15 -0600</pubDate>
-<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/1.13/Mission.Control.Plus.tgz" sparkle:version="1.13" sparkle:shortVersionString="1.13" length="6092770" type="application/octet-stream"/>
+<pubDate>Sat, 18 Apr 2020 20:36:27 -0500</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/1.14/Mission.Control.Plus.tgz" sparkle:version="1.14" sparkle:shortVersionString="1.14" length="6081997" type="application/octet-stream"/>
 </item>
 </channel></rss>
