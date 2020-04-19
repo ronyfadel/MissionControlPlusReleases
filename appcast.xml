@@ -6,7 +6,7 @@
 <description><![CDATA[
     <h2>Mission Control Plus v1.14</h2>
     <ul>
-        <li>Better multi-display support: now MCP works independently of the currently focused window</li>
+        <li>Better multi-display support: now MCP works independently of the currently focused window/display</li>
     </ul>
 ]]>
 </description>
