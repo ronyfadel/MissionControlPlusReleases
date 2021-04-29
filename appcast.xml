@@ -1,20 +1,22 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-<channel>
-<title>Mission Control Plus</title>
-<item>
-<title>1.16</title>
-<description><![CDATA[
-    <h2>Mission Control Plus v1.16</h2>
-    <ul>
-        <li>Hide menu item support</li>
-        <li>Added french localization</li>
-        <li>Fixed bug where space changes didn't work</li>
-    </ul>
-]]>
-</description>
-<pubDate>Thu, 29 Apr 2021 19:04:14 +0200</pubDate>
-<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.16/Mission.Control.Plus.tgz" sparkle:version="1.16" sparkle:shortVersionString="1.16" length="6398758" type="application/octet-stream"/>
-</item>
-</channel></rss>
+    <channel>
+        <title>Mission Control Plus</title>
+        <item>
+			<title>1.16</title>
+			<description><![CDATA[
+			    <h2>Mission Control Plus v1.16</h2>
+			    <ul>
+			        <li>Hide menu item support</li>
+			        <li>Added french localization</li>
+			        <li>Fixed bug where space changes didn't work</li>
+			    </ul>
+			]]>
+			</description>
+	        <title>1.16</title>
+	        <pubDate>Thu, 29 Apr 2021 19:04:14 +0200</pubDate>
+	        <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+	        <enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.16/Mission.Control.Plus.tgz" sparkle:version="1.16" sparkle:shortVersionString="1.16" length="6398758" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
