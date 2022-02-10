@@ -3,20 +3,17 @@
     <channel>
         <title>Mission Control Plus</title>
         <item>
-			<title>1.16</title>
-			<description><![CDATA[
-			    <h2>Mission Control Plus v1.16</h2>
-			    <ul>
-			        <li>Hide menu item support</li>
-			        <li>Added french localization</li>
-			        <li>Fixed bug where space changes didn't work</li>
-			    </ul>
-			]]>
-			</description>
-	        <title>1.16</title>
-	        <pubDate>Thu, 29 Apr 2021 19:04:14 +0200</pubDate>
-	        <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-	        <enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.16/Mission.Control.Plus.tgz" sparkle:version="1.16" sparkle:shortVersionString="1.16" length="6398758" type="application/octet-stream"/>
+            <title>1.17</title>
+            <description><![CDATA[
+                <h2>Mission Control Plus v1.17</h2>
+                <ul>
+                    <li>Added Italian and Chinese (Simplified) localizations</li>
+                </ul>
+            ]]>
+            </description>
+            <pubDate>Fri, 11 Feb 2022 00:22:13 +0100</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.17/Mission.Control.Plus.tgz" sparkle:version="1.17" sparkle:shortVersionString="1.17" length="6221658" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
