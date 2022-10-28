@@ -3,17 +3,17 @@
     <channel>
         <title>Mission Control Plus</title>
         <item>
-            <title>1.20</title>
+            <title>1.21</title>
             <description><![CDATA[
-                <h2>Mission Control Plus v1.20</h2>
+                <h2>Mission Control Plus v1.21</h2>
                 <ul>
-                    <li>Fixed AZERTY keyboard support</li>
+                    <li>Minor bug fixes</li>
                 </ul>
             ]]>
             </description>
-            <pubDate>Mon, 24 Oct 2022 17:24:14 -0500</pubDate>
+            <pubDate>Fri, 28 Oct 2022 10:47:29 +0900</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.20/Mission.Control.Plus.tgz" sparkle:version="1.20" sparkle:shortVersionString="1.20" length="6228137" type="application/octet-stream"/>
+            <enclosure url="https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.21/Mission.Control.Plus.tgz" sparkle:version="1.21" sparkle:shortVersionString="1.21" length="6228046" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
